@@ -1,5 +1,7 @@
 # Balabala
+
 一些有创意的编程题
+
 ## 无语言输出
 
 编写一个程序，输出自己的源代码，即所谓的Quine程序。但是，你不能使用任何语言内置的函数或方法，如 print，echo 等，来输出源代码。
@@ -28,7 +30,7 @@ SyntaxError: invalid syntax
 示例代码：
 使用len的基本方法
 ```python
-a=len("xxx")**2
+a=len("xxxxxxxxx")
 ```
 歪门邪道的高级手段
 ```python
