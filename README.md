@@ -125,6 +125,6 @@ print(all_chars_prime_count(multi_line_string))
 
 实现：
 
-```
+```摆lang
 我不会
 ```
